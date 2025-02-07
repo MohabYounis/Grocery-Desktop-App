@@ -1,0 +1,15 @@
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\bin\Debug\net9.0\Resturant.Business.deps.json
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\bin\Debug\net9.0\Resturant.Business.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\bin\Debug\net9.0\Resturant.Business.pdb
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\bin\Debug\net9.0\Resturant.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\bin\Debug\net9.0\Resturant.DataAcess.pdb
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\Resturant.Business.csproj.AssemblyReference.cache
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\Resturant.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\Resturant.Business.AssemblyInfoInputs.cache
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\Resturant.Business.AssemblyInfo.cs
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\Resturant.Business.csproj.CoreCompileInputs.cache
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\Resturan.86F4F18D.Up2Date
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\Resturant.Business.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\refint\Resturant.Business.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\Resturant.Business.pdb
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Business\obj\Debug\net9.0\ref\Resturant.Business.dll

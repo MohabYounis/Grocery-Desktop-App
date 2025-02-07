@@ -1,0 +1,14 @@
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\bin\Debug\net9.0\Resturant.DataAcess.deps.json
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\bin\Debug\net9.0\Resturant.DataAcess.runtimeconfig.json
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\bin\Debug\net9.0\Resturant.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\bin\Debug\net9.0\Resturant.DataAcess.pdb
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.csproj.AssemblyReference.cache
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.AssemblyInfoInputs.cache
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.AssemblyInfo.cs
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.csproj.CoreCompileInputs.cache
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\refint\Resturant.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.pdb
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.genruntimeconfig.cache
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\ref\Resturant.DataAcess.dll
