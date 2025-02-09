@@ -5,16 +5,20 @@ using System.Text;
 using System.Threading.Tasks;
 using Resturant.DataAcess;
 using Resturant.DataAcess.Models;
+using Dapper;
+using Microsoft.Data.SqlClient;
 
 namespace Resturant.Business
 {
     public class ProductServices
     {
         RestContext Db;
+        private readonly RestContext _context;
 
         public ProductServices()
         {
             Db = new RestContext();
+            _context = new RestContext();
         }
 
         // View All Products
@@ -22,6 +26,17 @@ namespace Resturant.Business
         {
             return Db.Products.ToList();
         }
+
+        public List<Product> GetProductsByDapper()
+        {
+            var connection = _context.GetConnection();
+            string query = "SELECT * FROM Products";
+
+            var products = connection.Query<Product>(query).ToList();
+
+            return products;
+        }
+
 
         // Add Product
         public int AddProduct(string name, int price, int amount, int categoryId)

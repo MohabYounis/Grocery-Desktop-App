@@ -12,3 +12,4 @@ D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presenta
 D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.pdb
 D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.genruntimeconfig.cache
 D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\ref\Resturant.DataAcess.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.DataAcess\obj\Debug\net9.0\Resturant.DataAcess.sourcelink.json

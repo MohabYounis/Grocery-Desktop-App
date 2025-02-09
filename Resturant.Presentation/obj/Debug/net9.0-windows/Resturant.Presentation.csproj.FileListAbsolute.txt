@@ -149,3 +149,4 @@ D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presenta
 D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Presentation\obj\Debug\net9.0-windows\Resturant.Presentation.Pres_Admin.resources
 D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Presentation\obj\Debug\net9.0-windows\Resturant.Presentation.Pres_User_Prod.resources
 D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Presentation\bin\Debug\net9.0-windows\Dapper.dll
+D:\ITI .NET\Technical\1-C#\5-LINQ-EF\Project\CodeFirstProject\Resturant.Presentation\Resturant.Presentation\obj\Debug\net9.0-windows\Resturant.Presentation.sourcelink.json
